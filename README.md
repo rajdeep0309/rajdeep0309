@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajdeep
 - 👀 I’m interested in Full Stack Development and competitive programming.
-- 🌱 I’m currently learning JavaScript. 
+- 🌱 I’m currently learning Backend. 
 - 💞️ I’m looking to collaborate on open source to contribute
 - 📫 How to reach me rajdeep3.9ghosh@gmail.com
 
